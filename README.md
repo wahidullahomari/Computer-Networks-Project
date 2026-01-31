@@ -416,7 +416,7 @@ Bu proje, Bartın Üniversitesi Bilgisayar Ağları dersi (2025-2026 Güz Dönem
 ## 📧 İletişim (Contact)
 
 Projeyle ilgili sorularınız için:
-* **LinkedIn:** [Wahidullah Omari](https://www.linkedin.com/in/wahidullahomari/)
+* **LinkedIn:** [Wahidullah Omari](https://www.linkedin.com/in/wahidullah-omari-505150259/)
 * **GitHub:** [wahidullahomari](https://github.com/wahidullahomari)
 
 ---
