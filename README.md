@@ -389,34 +389,49 @@ self.G = nx.erdos_renyi_graph(n=self.num_nodes, p=0.04, seed=42)  # Sabit seed
 
 ---
 
-## 👥 Ekip ve Katkıda Bulunanlar
 
-- **Proje Lideri**: [İsim Soyisim]
-- **Algoritma Geliştirme**: [İsim Soyisim]
-- **UI/UX Tasarım**: [İsim Soyisim]
-- **Test ve Dokümantasyon**: [İsim Soyisim]
+## 👥 Ekip ve Katkıda Bulunanlar (Team & Contributors)
+
+Bu proje, Bartın Üniversitesi Bilgisayar Ağları dersi (2025-2026 Güz Dönemi) kapsamında BSM307 proje grubu tarafından geliştirilmiştir:
+
+### 🧩 Proje Yönetimi ve Sistem Testi
+* **Engin Tekşut** - Q-Learning Entegrasyonu
+
+### 🧬 Genetik Algoritma (GA) Ekibi
+* **Wahidullah Omari** - GA Kodlama ve Entegrasyon
+* **Muhammad Dhafin Faza** - GA Kodlama ve Entegrasyon
+
+### 🖥️ Arayüz ve Topoloji Modülü
+* **Yusuf Meydan** - Arayüz Geliştirme & Dış Veri Entegrasyonu
+* **Mustafa Kağan Eren** - Topoloji Tasarımı ve Entegrasyon
+
+### 🐝 Parçacık Sürü Optimizasyonu (PSO) Ekibi
+* **Ahmet Adnan Damar** - PSO Entegrasyonu
+* **Emirhan Laleli** - PSO Entegrasyonu
+
+### 🔥 Benzetimli Tavlama (Simulated Annealing) Ekibi
+* **Jahangir Babayev** - SA Kodlama ve Entegrasyon
+* **Halil Talha Bayrak** - SA Kodlama ve Entegrasyon
+
+## 📧 İletişim (Contact)
+
+Projeyle ilgili sorularınız için:
+* **LinkedIn:** [Wahidullah Omari](https://www.linkedin.com/in/wahidullahomari/)
+* **GitHub:** [wahidullahomari](https://github.com/wahidullahomari)
 
 ---
 
-## 📝 Lisans
+## 📜 Lisans
 
-Bu proje akademik amaçlı geliştirilmiştir. [Üniversite Adı] Bilgisayar Ağları Dersi kapsamında kullanılmak üzere hazırlanmıştır.
+Bu proje akademik amaçlı geliştirilmiştir. **Bartın Üniversitesi** Bilgisayar Ağları Dersi kapsamında kullanılmak üzere hazırlanmıştır.
 
----
+## 👏 Teşekkürler
 
-## 📧 İletişim
+Bu projenin geliştirilmesinde katkılarından dolayı aşağıdaki kişi ve kurumlara teşekkür ederiz:
 
-Sorularınız için:
-- **E-posta**: [email@example.com]
-- **GitHub Issues**: [Repository Issues Link]
-
----
-
-## 🎓 Teşekkürler
-
-- [Hoca Adı] - Ders Sorumlusu
-- [Üniversite Adı] Bilgisayar Mühendisliği Bölümü
-- NetworkX ve PyQt5 açık kaynak topluluğu
+* **Dr. Öğr. Üyesi Evrim Güler** - Ders Sorumlusu ve Rehberliği için
+* **Bartın Üniversitesi** - Bilgisayar Teknolojisi ve Bilişim Sistemleri
+* NetworkX ve PyQt5 açık kaynak topluluğu
 
 ---
 
